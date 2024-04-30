@@ -1,0 +1,12 @@
+{
+  "name": "internfrontend-entrytask-main",
+  "version": "1.0.0",
+  "description": "Доброго времени суток, будущий стажер!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
